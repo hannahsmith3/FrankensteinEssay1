@@ -1,2 +1,2 @@
-# FrankensteinEssay1
+# FrankensteinEssays
 Essay 1 for Frankenstein Atlas
